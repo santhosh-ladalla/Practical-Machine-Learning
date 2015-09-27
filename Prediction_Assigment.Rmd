@@ -1,6 +1,6 @@
 Predicting the exercise pattern - Machine Learning Assigment
-
 ========================================================
+
 Author - Santhosh Ladalla
 
 The devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect a large amount of data about personal activity relatively inexpensively.In this project, the goal is to use data from accelerometers on the belt, forearm, arm, and dumbell of 6 participants. They were asked to perform barbell lifts correctly and incorrectly in 5 different ways.In this project we will build a model using a machine learning algorithm and also perform cross validation to calculate out of sample error.
